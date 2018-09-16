@@ -1,0 +1,4 @@
+mvn archetype:generate \
+-DarchetypeGroupId=com.vaadin \
+-DarchetypeArtifactId=vaadin-archetype-application \
+-DarchetypeVersion=8.5.2

@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <meta name="design-properties" content="{&quot;RULERS_VISIBLE&quot;:true,&quot;GUIDELINES_VISIBLE&quot;:false,&quot;SNAP_TO_OBJECTS&quot;:true,&quot;SNAP_TO_GRID&quot;:true,&quot;SNAPPING_DISTANCE&quot;:10,&quot;GENERATE_GETTERS&quot;:false,&quot;JAVA_SOURCES_ROOT&quot;:&quot;src/main/java&quot;,&quot;THEME&quot;:&quot;mytheme&quot;}">
+  <meta name="vaadin-version" content="8.1.5">
+ </head>
+ <body>
+  <vaadin-form-layout responsive size-full margin>
+   <vaadin-text-field required-indicator-visible caption="Firstname" responsive placeholder="firstname" maxlength="255" _id="firstname"></vaadin-text-field>
+   <vaadin-text-field required-indicator-visible caption="lastname" placeholder="lastname" _id="lastname"></vaadin-text-field>
+   <vaadin-text-field required-indicator-visible caption="nickname" placeholder="nickname" _id="nickname"></vaadin-text-field>
+   <vaadin-text-field required-indicator-visible caption="email" placeholder="email" _id="email"></vaadin-text-field>
+   <vaadin-password-field required-indicator-visible caption="password" placeholder="password" _id="password"></vaadin-password-field>
+   <vaadin-horizontal-layout>
+    <vaadin-button icon="fonticon://Vaadin-Icons/e7ff" style-name="primary" responsive plain-text _id="btnSave">
+      save 
+    </vaadin-button>
+    <vaadin-button icon="fonticon://Vaadin-Icons/e790" style-name="danger" plain-text _id="btnCancel">
+      Cancel 
+    </vaadin-button>
+   </vaadin-horizontal-layout>
+   <vaadin-grid-layout spacing responsive width="100px" height="30px" margin>
+    <row>
+     <column>
+      <vaadin-grid responsive data-item-type="com.app.model.Person" _id="tabelperson" :middle :center>
+       <table>
+        <colgroup>
+         <col column-id="firstname" sortable>
+         <col column-id="email" sortable>
+         <col column-id="lastname" sortable>
+         <col column-id="nickname" sortable>
+         <col column-id="username" sortable>
+         <col column-id="password" sortable>
+        </colgroup>
+        <thead>
+         <tr default>
+          <th plain-text column-ids="firstname">Firstname</th>
+          <th plain-text column-ids="email">Email</th>
+          <th plain-text column-ids="lastname">Lastname</th>
+          <th plain-text column-ids="nickname">Nickname</th>
+          <th plain-text column-ids="username">Username</th>
+          <th plain-text column-ids="password">Password</th>
+         </tr>
+        </thead>
+        <tbody></tbody>
+       </table>
+      </vaadin-grid>
+     </column>
+    </row>
+   </vaadin-grid-layout>
+  </vaadin-form-layout>
+ </body>
+</html>

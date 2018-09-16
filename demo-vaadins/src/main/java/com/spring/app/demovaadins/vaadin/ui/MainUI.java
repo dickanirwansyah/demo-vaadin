@@ -29,7 +29,7 @@ import org.vaadin.viritin.layouts.MVerticalLayout;
 import java.util.ArrayList;
 import java.util.List;
 
-@Title("Product CRUD")
+@Title("Product Page")
 @Theme("valo")
 @SpringUI
 public class MainUI extends UI {

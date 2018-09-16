@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <meta name="design-properties" content="{&quot;RULERS_VISIBLE&quot;:true,&quot;GUIDELINES_VISIBLE&quot;:false,&quot;SNAP_TO_OBJECTS&quot;:true,&quot;SNAP_TO_GRID&quot;:true,&quot;SNAPPING_DISTANCE&quot;:10,&quot;GENERATE_GETTERS&quot;:false,&quot;JAVA_SOURCES_ROOT&quot;:&quot;src/main/java&quot;,&quot;THEME&quot;:&quot;mytheme&quot;}">
+  <meta name="vaadin-version" content="8.1.5">
+ </head>
+ <body>
+  <vaadin-horizontal-layout size-full>
+   <vaadin-form-layout margin>
+    <vaadin-text-field icon="fonticon://Vaadin-Icons/e80d" width-full _id="txtUsername"></vaadin-text-field>
+    <vaadin-text-field icon="fonticon://Vaadin-Icons/e729" width-full _id="txtEmail"></vaadin-text-field>
+    <vaadin-password-field icon="fonticon://Vaadin-Icons/e7f2" width-full _id="txtPassword"></vaadin-password-field>
+    <vaadin-horizontal-layout>
+     <vaadin-button style-name="primary" plain-text _id="btnSimpan">
+       Save 
+     </vaadin-button>
+     <vaadin-button style-name="friendly" plain-text _id="btnRefresh">
+       Refresh 
+     </vaadin-button>
+    </vaadin-horizontal-layout>
+   </vaadin-form-layout>
+   <vaadin-vertical-layout spacing="false" width="80%" margin-left="false" margin-bottom="false">
+    <vaadin-grid size-full data-item-type="com.app.model.Acount" _id="accountGrid" :center>
+     <table>
+      <colgroup>
+       <col column-id="username" sortable>
+       <col column-id="email" sortable>
+       <col column-id="password" sortable>
+      </colgroup>
+      <thead>
+       <tr default>
+        <th plain-text column-ids="username">Username</th>
+        <th plain-text column-ids="email">Email</th>
+        <th plain-text column-ids="password">Password</th>
+       </tr>
+      </thead>
+      <tbody></tbody>
+     </table>
+    </vaadin-grid>
+   </vaadin-vertical-layout>
+  </vaadin-horizontal-layout>
+ </body>
+</html>
