@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78ccea43-a6a3-4677-b160-8254c37d0637" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.designer/designer-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/libraries/Maven__com_vaadin_external_atmosphere_atmosphere_runtime_2_4_11_vaadin2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/libraries/Maven__com_vaadin_external_flute_flute_1_3_0_gg2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/libraries/Maven__com_vaadin_external_gentyref_1_2_0_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/libraries/Maven__com_vaadin_external_slf4j_vaadin_slf4j_jdk14_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/libraries/Maven__com_vaadin_vaadin_client_compiled_8_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/libraries/Maven__com_vaadin_vaadin_push_8_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/libraries/Maven__com_vaadin_vaadin_sass_compiler_0_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/libraries/Maven__com_vaadin_vaadin_server_8_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/libraries/Maven__com_vaadin_vaadin_shared_8_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/libraries/Maven__com_vaadin_vaadin_themes_8_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout-training/vaadin-layout-training.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/java/com/app/design/DashboardDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/java/com/app/design/HomePageDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/java/com/app/design/Page1Design.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/java/com/app/design/Page2Design.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/java/com/app/implement/DashboardView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/java/com/app/implement/HomePageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/java/com/app/implement/Page1View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/java/com/app/implement/Page2View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/resources/com/app/design/DashboardDesign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/resources/com/app/design/HomePageDesign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/resources/com/app/design/Page1Design.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/resources/com/app/design/Page2Design.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-training-templates/src/main/java/com/training/vaadin/vaadintrainingtemplates/MyUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-training-templates/src/main/java/com/training/vaadin/vaadintrainingtemplates/design/UserListDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-training-templates/src/main/java/com/training/vaadin/vaadintrainingtemplates/model/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-training-templates/src/main/java/com/training/vaadin/vaadintrainingtemplates/repository/UsersRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vaadin-training-templates/src/main/resources/com/training/vaadin/vaadintrainingtemplates/design/UserListDesign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.designer/designer-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_atmosphere_atmosphere_runtime_2_4_24_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_flute_flute_1_3_0_gg2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_gentyref_1_2_0_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_slf4j_vaadin_slf4j_jdk14_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_client_compiled_8_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_push_8_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_sass_compiler_0_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_server_8_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_shared_8_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_themes_8_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/senin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/.idea/libraries/Maven__at_downdrown_vaadinaddons_highchartsapi_2_2_1_QF.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/.idea/libraries/Maven__com_vaadin_external_atmosphere_atmosphere_runtime_2_4_11_vaadin2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/.idea/libraries/Maven__com_vaadin_vaadin_client_compiled_8_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/.idea/libraries/Maven__com_vaadin_vaadin_push_8_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/.idea/libraries/Maven__com_vaadin_vaadin_server_8_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/.idea/libraries/Maven__com_vaadin_vaadin_shared_8_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/.idea/libraries/Maven__com_vaadin_vaadin_testbench_api_8_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/.idea/libraries/Maven__com_vaadin_vaadin_themes_8_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/.idea/my-starter-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-starter-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/src/main/java/com/gmail/muhammad/backend/data/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/../my-starter-project/src/main/java/com/gmail/muhammad/backend/data/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/src/main/java/com/gmail/muhammad/ui/MainViewDesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/../my-starter-project/src/main/java/com/gmail/muhammad/ui/MainViewDesign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/src/main/java/com/gmail/muhammad/ui/navigation/NavigationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../my-starter-project/src/main/java/com/gmail/muhammad/ui/navigation/NavigationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-starter-project/src/main/java/com/gmail/muhammad/ui/views/admin/product/ProductAdminViewDesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/../my-starter-project/src/main/java/com/gmail/muhammad/ui/views/admin/product/ProductAdminViewDesign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vaadin-demo-bakery-app-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vaadin-demo-bakery-app-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vaadin-demo-bakery-app-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vaadin-layout/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vaadin-layout/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vaadin-layout/src/main/java/com/app/MyUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/java/com/app/MyUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vaadin-layout/src/main/java/com/app/implement/AccountImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vaadin-layout/src/main/java/com/app/implement/AccountImplement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vaadin-layout/target/classes/com/app/MyUI$MyUIServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vaadin-layout/target/classes/com/app/MyUI$MyUIServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vaadin-layout/target/classes/com/app/MyUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vaadin-layout/target/classes/com/app/MyUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vaadin-layout/target/classes/com/app/implement/AccountImplement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vaadin-layout/target/classes/com/app/implement/AccountImplement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vaadin-layout/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../vaadin-layout/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vaadin-layout/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../vaadin-layout/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2078082097">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="html" value="7" />
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="HTML" value="7" />
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fusi24/MyUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+              <folding>
+                <element signature="e#792#793#0" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fusi24/view/HomepageView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <folding>
+                <element signature="e#954#955#0" expanded="true" />
+                <element signature="e#1013#1014#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/com/fusi24/design/HomepageDesign.html">
+          <provider selected="true" editor-type-id="com.vaadin.designer2.intellij.webEditor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="64" />
+    <option name="width" value="1281" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="senin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vaadin-tutor-navigator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="senin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vaadin-tutor-navigator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="senin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vaadin-tutor-navigator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="senin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vaadin-tutor-navigator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="senin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vaadin-tutor-navigator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fusi24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="senin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vaadin-tutor-navigator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fusi24" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="senin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vaadin-tutor-navigator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fusi24" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="senin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vaadin-tutor-navigator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="senin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vaadin-tutor-navigator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="designer-theme-cache.name" value="mytheme" />
+    <property name="designer-theme-cache.timestamp" value="1537195137797" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78ccea43-a6a3-4677-b160-8254c37d0637" name="Default Changelist" comment="" />
+      <created>1537176815019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537176815019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25338647" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="com.vaadin.designer2.intellij.palette.PaletteToolWindowManager.toolWindow" sideWeight="0.28881988" visible="true" weight="0.20239043" />
+      <window_info active="true" anchor="right" id="com.vaadin.designer2.intellij.outline.OutlineToolWindowManager.toolWindow" sideWeight="0.71118015" side_tool="true" visible="true" weight="0.20239043" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+  <component name="designer2.settings">
+    <option name="autodetectServerAddress" value="true" />
+    <option name="serverIp" value="192.168.43.68" />
+    <option name="serverPort" value="19926" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/fusi24/design/Page1Design.html">
+      <provider selected="true" editor-type-id="com.vaadin.designer2.intellij.webEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/fusi24/design/DashboardDesign.html">
+      <provider selected="true" editor-type-id="com.vaadin.designer2.intellij.webEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fusi24/MyUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+          <folding>
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.5.1/vaadin-server-8.5.1.jar!/com/vaadin/ui/AbstractComponent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="114" column="16" selection-start-line="114" selection-start-column="16" selection-end-line="114" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fusi24/view/Page2View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fusi24/view/Page1View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fusi24/view/HomepageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/fusi24/design/HomepageDesign.html">
+      <provider selected="true" editor-type-id="com.vaadin.designer2.intellij.webEditor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

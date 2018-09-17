@@ -12,5 +12,4 @@ public class Role {
 	public static String[] getAllRoles() {
 		return new String[] { BARISTA, BAKER, ADMIN };
 	}
-
 }

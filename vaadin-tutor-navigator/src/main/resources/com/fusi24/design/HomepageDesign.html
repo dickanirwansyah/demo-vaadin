@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <meta name="design-properties" content="{&quot;RULERS_VISIBLE&quot;:true,&quot;GUIDELINES_VISIBLE&quot;:false,&quot;SNAP_TO_OBJECTS&quot;:true,&quot;SNAP_TO_GRID&quot;:true,&quot;SNAPPING_DISTANCE&quot;:10,&quot;GENERATE_GETTERS&quot;:false,&quot;JAVA_SOURCES_ROOT&quot;:&quot;src/main/java&quot;,&quot;THEME&quot;:&quot;mytheme&quot;}">
+  <meta name="vaadin-version" content="8.1.5">
+ </head>
+ <body>
+  <vaadin-vertical-layout spacing="false" size-full margin="false">
+   <vaadin-vertical-layout spacing="false" margin="false" _id="header">
+    <vaadin-label plain-text :middle :center>
+      Header Application 
+    </vaadin-label>
+   </vaadin-vertical-layout>
+   <vaadin-vertical-layout spacing="false" size-full margin="false" _id="body" :expand>
+    <vaadin-horizontal-layout spacing="false" size-full>
+     <vaadin-vertical-layout spacing="false" width="250px" margin="false" _id="navLayout">
+      <vaadin-button style-name="link small" width-full plain-text _id="sampleButton">
+        Button 
+      </vaadin-button>
+     </vaadin-vertical-layout>
+     <vaadin-vertical-layout spacing="false" size-full margin="false" _id="viewContent" :expand>
+      <vaadin-panel size-full _id="viewPanel"></vaadin-panel>
+     </vaadin-vertical-layout>
+    </vaadin-horizontal-layout>
+   </vaadin-vertical-layout>
+  </vaadin-vertical-layout>
+ </body>
+</html>

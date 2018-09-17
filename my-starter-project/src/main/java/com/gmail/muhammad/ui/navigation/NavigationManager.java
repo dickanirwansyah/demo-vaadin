@@ -39,7 +39,7 @@ public class NavigationManager extends SpringNavigator {
 	/**
 	 * Navigate to the given view class.
 	 *
-	 * @param viewClass
+	 * @param //viewClass
 	 *            the class of the target view, must be annotated using
 	 *            {@link SpringView @SpringView}
 	 */

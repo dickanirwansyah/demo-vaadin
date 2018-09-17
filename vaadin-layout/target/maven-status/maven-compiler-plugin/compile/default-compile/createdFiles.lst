@@ -1,5 +1,13 @@
 com/app/implement/AccountImplement.class
 com/app/design/AccountDesign.class
 com/app/MyUI.class
+com/app/implement/Page1View.class
+com/app/implement/DashboardView.class
+com/app/design/Page2Design.class
+com/app/design/Page1Design.class
+com/app/design/DashboardDesign.class
+com/app/implement/HomePageView.class
+com/app/implement/Page2View.class
+com/app/design/HomePageDesign.class
 com/app/MyUI$MyUIServlet.class
 com/app/model/Acount.class

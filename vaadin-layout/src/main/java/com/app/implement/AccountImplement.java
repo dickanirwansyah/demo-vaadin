@@ -17,6 +17,8 @@ import java.util.List;
 
 public class AccountImplement extends AccountDesign implements View {
 
+    public static final String VIEW_NAME = "account";
+
     Acount acount;
     List<Acount> acounts;
     Binder<Acount> binder;
@@ -73,6 +75,7 @@ public class AccountImplement extends AccountDesign implements View {
         binder.readBean(acount);
         txtUsername.focus();;
     }
+
 
     private void setUpBinder(){
         binder.forField(txtUsername)
